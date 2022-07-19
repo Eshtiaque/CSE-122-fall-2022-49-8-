@@ -10,4 +10,4 @@ ID : 21225103328
 
 Section : 08
 
-Intek : 49
+Intake : 49
